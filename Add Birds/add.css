@@ -1,0 +1,31 @@
+.btnsend,.joinUs{
+    background-color:#f15936;
+    ;
+}
+
+.firsttext{
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+
+}
+.Speicesbtn{
+
+    width: 10vw;
+    height: 8vh;
+    background-color: #198754;
+    border:#cf8574 0.2px solid;
+}
+
+form{
+    background-color: #F2F1ED;
+
+}
+
+
+
+@media screen and (max-width:760px) {
+    
+ 
+}

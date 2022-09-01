@@ -1,0 +1,17 @@
+
+
+
+.birdcontain{
+
+    min-width: 20vw
+}
+#displayloading{
+
+    height:100vh;
+    position:sticky;
+    z-index: 2;
+}
+
+.test:hover{
+    display: block
+}
